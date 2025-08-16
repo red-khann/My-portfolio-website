@@ -5,7 +5,7 @@ Welcome to my personal portfolio—a snapshot of who I am, what I do, and how yo
 ---
 
 ##  Live Site  
-🌐 Check out the website: **https://my-portfolio-website-rho-liard.vercel.app/**
+🌐 Check out the website: **https://my-portfolio-website-aw8z.vercel.app/**
 
 ---
 
